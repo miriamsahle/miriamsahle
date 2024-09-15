@@ -8,10 +8,10 @@ At school, I'm getting hands-on experience with:
 - **Frameworks:** React.js, Next.js
 - **Tools:** Git, Docker, SQL, MongoDB, API integrations, and CMS systems
 
-But my true interest lies in **UX/UI design**! I recently completed a project using **Figma**, and I was blown away by how much fun it was to bring ideas to life through design. I’m eager to dive deeper into frontend development, blending creativity and code to create exceptional user experiences.
+My :heart: lies in **UX/UI design**! When I completed a project using **Figma**, I was blown away by how much fun it was to bring ideas to life through design. I’m eager to dive deeper into frontend development, blending creativity and code to create exceptional user experiences.
 
 ## 🔭 What I’m Working On
-- 🌟 Learning more about UX/UI design principles and how to apply them to real-world projects.
+- 💬 Unlocking hidden secrets within UX/UI design principles and how to apply them to real-world projects.
 - ⚛️ Building frontend applications with React.js to improve both my development and design skills.
 - 🎨 Experimenting with Figma to turn concepts into interactive, user-focused designs.
 
