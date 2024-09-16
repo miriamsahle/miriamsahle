@@ -9,7 +9,7 @@ At school, I'm getting hands-on experience with:
 - **Tools:** Git, Docker, SQL, MongoDB, API integrations, and CMS systems
 
 ## 🔭 What I’m Working On
-- 💬 Unlocking hidden secrets within UX/UI design principles and how to apply them to real-world projects.
+- 🕵️‍♀️ Unlocking hidden secrets within UX/UI design principles and how to apply them to real-world projects.
 - ⚛️ Building frontend applications with React.js to improve both my development and design skills.
 - 🎨 Experimenting with Figma to turn concepts into interactive, user-focused designs.
 
